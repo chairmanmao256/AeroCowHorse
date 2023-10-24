@@ -16,7 +16,7 @@ pandas
 You only need two simple packages to be a 100% TRUE COWHORSE!
 
 ## How to use the code
-Download the "月度汇总表" from [Deli cloud](delicloud.com). Then put all of them into the directory `Details`。Make sure that you have renamed all the `.xlsx` files following the format below:
+Download the "月度汇总表" from [Deli cloud](https://delicloud.com/). Then put all of them into the directory `Details`。Make sure that you have renamed all the `.xlsx` files following the format below:
 ```
 月度汇总表_YYYYMMDD_YYYYMMDD.xlsx
 ```
